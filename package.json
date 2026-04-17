@@ -9,5 +9,16 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "type": "commonjs"
+  "type": "commonjs",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/huma515/express-crud-api.git"
+  },
+  "bugs": {
+    "url": "https://github.com/huma515/express-crud-api/issues"
+  },
+  "homepage": "https://github.com/huma515/express-crud-api#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
 }
